@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me via email or on [linkedin](https://www.linkedin.com/in/david-onwachukwu-265115190/)
 
 ![Metrics](/github-metrics.svg)
-
+![Wakatime](/metrics.plugin.wakatime.svg)
