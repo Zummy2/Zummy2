@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 💼 Currenly open to full time Data Analyst Roles.
 
-- 📫 You can reach me at [my email](davidonwachukwu00@gmail.com)
+- 📫 You can reach me via [my email](davidonwachukwu00@gmail.com) or on [linkedin](https://www.linkedin.com/in/david-onwachukwu-265115190/)
 
 ![Metrics](/github-metrics.svg)
 
