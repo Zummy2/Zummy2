@@ -5,8 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+        with:
+         filename: metrics.plugin.isocalendar.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_isocalendar: yes
