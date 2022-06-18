@@ -11,7 +11,8 @@
 
 
 
-![Wakatime](/metrics.plugin.wakatime.svg)
+![Habits](/metrics.plugin.habits.charts.svg)
+![Facts](/metrics.plugin.habits.facts.svg)
 
 
 ![Topics](/metrics.plugin.topics.svg)
