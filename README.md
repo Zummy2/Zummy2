@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on projects related to sports, health and business/finance.
 
-- 📫 You can reach me via [email](mailto:davidonwachukwu00@gmail.com) or connect with me on [linkedin](https://www.linkedin.com/in/david-onwachukwu-265115190/)
+- 📫 You can reach me via [email](mailto:davidonwachukwu00@gmail.com) or connect with me on [linkedin](https://www.linkedin.com/in/david-onwachukwu)
 
 
 
